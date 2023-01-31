@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dingmo-dev-81242-authRole",
+      "UnauthRoleArn": "arn:aws:iam::704557192257:role/amplify-dingmo-dev-81242-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::704557192257:role/amplify-dingmo-dev-81242-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-dingmo-dev-81242-deployment",
+      "UnauthRoleName": "amplify-dingmo-dev-81242-unauthRole",
+      "StackName": "amplify-dingmo-dev-81242",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:704557192257:stack/amplify-dingmo-dev-81242/2ddd5750-614d-11ed-969b-0af30b407a80",
+      "AmplifyAppId": "d23nr7r9nt6hxp"
+    },
+    "categories": {
+      "auth": {
+        "dingmoba0aef53": {}
+      }
+    }
+  }
+}

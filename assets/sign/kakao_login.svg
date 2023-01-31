@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="45" viewBox="0 0 320 45">
+    <g transform="translate(-105 -614)">
+        <rect data-name="사각형 4" width="320" height="45" rx="6" transform="translate(105 614)" style="fill:#fee500"/>
+        <g data-name="그룹 1420">
+            <path data-name="패스 273" d="M158.625 127.693c-4.418 0-8 2.871-8 6.414a6.252 6.252 0 0 0 3.712 5.417l-.754 2.857a.24.24 0 0 0 .057.244.227.227 0 0 0 .164.068.231.231 0 0 0 .139-.054l3.242-2.222a9.965 9.965 0 0 0 1.44.107c4.417 0 8-2.872 8-6.416s-3.583-6.414-8-6.414" transform="translate(66.375 501.307)" style="opacity:.9"/>
+            <text data-name="카카오 로그인" transform="translate(243 641)" style="font-size:13px;font-family:Pretendard-Medium,Pretendard;font-weight:500;opacity:.85"><tspan x="0" y="0">카카오 로그인</tspan></text>
+        </g>
+    </g>
+</svg>

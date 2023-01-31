@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "653581282474",
+    "project_id": "dingmo-76ec3",
+    "storage_bucket": "dingmo-76ec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653581282474:android:e4911a663c7a63211534d3",
+        "android_client_info": {
+          "package_name": "com.example.dingmo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653581282474-huis92fptlutnnsonbab91441k156odt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYC43mCd0ag4nc2rFaaQ-lO_gbaFsTPtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653581282474-huis92fptlutnnsonbab91441k156odt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653581282474-gj0sgq3dl3jesjp0195roeqflj0ra0t4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dingmo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

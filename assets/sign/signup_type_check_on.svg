@@ -1,0 +1,7 @@
+<svg data-name="big check on_icon" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <g data-name="타원 238" style="stroke:#fff;stroke-width:1.5px;fill:none">
+        <circle cx="24" cy="24" r="24" style="stroke:none"/>
+        <circle cx="24" cy="24" r="23.25" style="fill:none"/>
+    </g>
+    <path data-name="Icon feather-check" d="M24.551 9 11.8 22.6 6 16.421" transform="translate(8.724 8.198)" style="stroke-linecap:round;stroke-linejoin:round;stroke:#fff;stroke-width:1.5px;fill:none"/>
+</svg>

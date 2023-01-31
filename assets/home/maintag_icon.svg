@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+    <path data-name="Icon feather-message-circle" d="M26 13.775a8.608 8.608 0 0 1-1.059 4.147A10.107 10.107 0 0 1 16 23.05a10.493 10.493 0 0 1-4.471-.982l-.914 2.432-3.556-6.578A8.608 8.608 0 0 1 6 13.775a9.231 9.231 0 0 1 5.529-8.293A10.493 10.493 0 0 1 16 4.5h.588c5.077.26 9.132 4.02 9.412 8.73z" transform="translate(-6 -4.5)" style="fill:#e1709d"/>
+    <g data-name="그룹 1383">
+        <path data-name="선 198" transform="translate(5.604 7.863)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round" d="M0 0h9.396"/>
+        <path data-name="선 199" transform="translate(10.833 5)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round" d="M1.667 0 0 9"/>
+        <path data-name="선 200" transform="translate(7.5 5)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round" d="M1.667 0 0 9"/>
+        <path data-name="선 201" transform="translate(5 11.136)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round" d="M0 0h9.396"/>
+    </g>
+</svg>

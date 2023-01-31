@@ -1,0 +1,14 @@
+<svg id="unlock_icon" xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #bababa;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path id="패스_2575" data-name="패스 2575" class="cls-1" d="M1.091,5.9H12.909a.6.6,0,0,1,.591.6v8.4a.6.6,0,0,1-.591.6H1.091A.6.6,0,0,1,.5,14.9V6.5A.6.6,0,0,1,1.091,5.9Z"/>
+  <path id="패스_2576" data-name="패스 2576" class="cls-1" d="M4.341,5.9V3.2a2.659,2.659,0,1,1,5.318,0"/>
+</svg>
